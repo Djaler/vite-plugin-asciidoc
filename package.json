@@ -23,7 +23,7 @@
   "types": "./dist/types/index.d.ts",
   "packageManager": "pnpm@6.20.3",
   "dependencies": {
-    "asciidoctor": "^2.2.5",
+    "asciidoctor": "2.2.5",
     "html-loader": "3.0.1"
   },
   "bundledDependencies": [
