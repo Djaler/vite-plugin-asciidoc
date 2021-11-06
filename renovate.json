@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "github>djaler/renovate-config:js",
+    ":pinOnlyDevDependencies"
+  ]
+}
