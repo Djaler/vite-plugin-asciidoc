@@ -41,7 +41,7 @@
     "@djaler/conventional-changelog-standard": "1.2.0",
     "@djaler/eslint-config-typescript": "0.0.7",
     "@types/node": "16.11.6",
-    "clean-publish": "3.4.3",
+    "clean-publish": "3.4.5",
     "conventional-github-releaser": "3.1.5",
     "copyfiles": "2.4.1",
     "eslint": "7.32.0",
