@@ -29,7 +29,7 @@
   ],
   "main": "./dist/index.js",
   "types": "./dist/types/index.d.ts",
-  "packageManager": "pnpm@6.20.3",
+  "packageManager": "pnpm@6.35.1",
   "dependencies": {
     "asciidoctor": "^2.2.5",
     "html-loader": "3.0.1"
